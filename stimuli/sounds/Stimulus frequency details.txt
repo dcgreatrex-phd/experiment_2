@@ -1,0 +1,22 @@
+#————————————————————————————————————#
+Stimulus frequency details
+#————————————————————————————————————#
+last update: 05/06/2015
+
+Instrumental information:
+> Bass Clarinet - Bb2:
+>> bclarinetb2.wav
+>> bclarinetb2.2.wav
+> Oboe - Bb3:
+>> oboebb3.wav
+>> oboebb3.2.wav
+
+Frequency information:
+Oboe Bb3 == 233.08Hz ; 148.02cm WL
+Bass Clarinet Bb2 == 116.54Hz ; 296.03cm WL
+
+onset times:
+oboebb3 = 5ms on/off set ramps
+oboebb3.2 = 10ms on/off set ramps
+bclarinetb2 = 5ms on/off set ramps
+bclarinetb2.2 = 10ms on/off set ramps
